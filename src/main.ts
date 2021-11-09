@@ -5,7 +5,7 @@ import router from './routes'
 import store from './store'
 // elementPlus完整引入
 import ElementPlus from 'element-plus';
-import 'element-plus/lib/theme-chalk/index.css';
+import 'element-plus/dist/index.css';
 
 import App from './App.vue'
 createApp(App)
